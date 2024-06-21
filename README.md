@@ -8,20 +8,11 @@ Base de Dados fornecendo os informações de Janeiro a Julho de 2020.
 
 # Estrutura da base de dados
 
-## Arquivo em Excel que contém inicialmente as seguintes colunas:
+## Estrutura da base de dados:
 
-### Casos Por Dia Total:
-
-
-#### Não foi Criado nenhuma Coluna/Medida a partir dos dados
-
-
-### Casos Por Dia nos Paises:
-
-
-#### Não foi Criado nenhuma Coluna/Medida a partir dos dados  
-
-### Info Paises:
-
-
-#### Não foi Criado nenhuma Coluna/Medida a partir dos dados  
+### Medidas Criadas Durante o Projeto:
+- MortosPorConfirmados
+- RecuperadorPorConfirmados
+- TextoPrimeiroIndicador
+- TextoSegundoIndicador
+- TextoTerceiroIndicador
